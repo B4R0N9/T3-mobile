@@ -1,6 +1,6 @@
 # ============================================================
-# Nama  : Lalu Ahmad Purwadi
-# NIM   : F1D02310115
+# Nama  : M.Danuarta Wiraguna
+# NIM   : F1D02310124
 # Kelas : C
 # Tugas : T2-Week4 — Form Multi-Step dengan Event & Signal Handling
 # ============================================================
